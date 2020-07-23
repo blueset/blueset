@@ -1,4 +1,4 @@
-![Eana Hufwe](https://github.com/blueset/blueset/raw/04f7cae222c5a60389b8a37439fcff6427b02248/EanaHandwritingAnimated.svg)
+![Eana Hufwe](https://github.com/blueset/blueset/raw/cda8ec1230cbee16a3a7dc52a4b2272619588233/EanaHandwritingAnimated.svg)
 
 <p align="center">
 A <em>(hopefully soon-not-to-be so-called) indie</em> software developer.<br>
