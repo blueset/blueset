@@ -1,8 +1,7 @@
 ![Eana Hufwe](https://github.com/blueset/blueset/raw/cda8ec1230cbee16a3a7dc52a4b2272619588233/EanaHandwritingAnimated.svg)
 
 <p align="center">
-A <em>(hopefully soon-not-to-be so-called) indie</em> software developer.<br>
-Loves building tools, design, typography and Vocaloid.<br>
+A software engineer loves building tools, design, typography and Vocaloid.<br>
 <br>
 <a href="https://1a23.com">Portfolio Site</a>
  · <a href="https://blog.1a23.com">Blog</a>
