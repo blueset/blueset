@@ -1,4 +1,4 @@
-![Eana Hufwe](https://github.com/blueset/blueset/raw/cda8ec1230cbee16a3a7dc52a4b2272619588233/EanaHandwritingAnimated.svg)
+![Eana Hufwe](https://github.com/blueset/blueset/raw/b322cb383b852d7e6609681a8f4bff64932cd96e/EanaHandwritingAnimatedDark.svg#gh-dark-mode-only)![Eana Hufwe](https://github.com/blueset/blueset/raw/b322cb383b852d7e6609681a8f4bff64932cd96e/EanaHandwritingAnimatedLight.svg#gh-light-mode-only)
 
 <p align="center">
 A software engineer who loves building tools, design, typography and Vocaloid.<br>
