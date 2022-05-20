@@ -2,57 +2,6 @@
     <rect width="3694" height="2103" id="repeat" fill="#666" opacity="0" display="none">
         <set attributeName="display" to="inline" begin="animateE2.end+0.5s" end="repeat.click;indefinite" />
     </rect>
-
-    <path stroke-dasharray="1720 1720" stroke-dashoffset="1720" d="M905.5 952C907.5 947 909 945.5 909 936C909 909.5 864.5 911 858 911C781.5 911 712.5 957.5 712.5 978.5C712.5 1008.5 773 1012.5 774 1012.5C782 1012.5 839.5 1014.5 839.5 1014.5C839.5 1014.5 828 1014.5 807 1014.5C712.5 1014.5 562.892 1089.04 560 1197C560 1237 587 1326.5 795 1326.5C1044 1326.5 1361 1226 1422.5 1174.5C1425 1172.41 1425 1169 1425 1169" stroke="#fff" stroke-width="30" stroke-linecap="round" stroke-linejoin="round">
-        <animate id="animateE1Border" attributeName="stroke-dashoffset" from="1720" to="0" begin="1s;repeat.click+0.25s" dur="0.75s"  keyTimes="0;1" calcMode="spline" keySplines=".12,0,.39,0;" />
-        <set attributeName="stroke-dashoffset" to="0" begin="animateE1Border.end" end="repeat.click;indefinite" />
-    </path>
-    <path stroke-dasharray="430 430" stroke-dashoffset="430" d="M1015.5 1038C1015.5 1038 1020 1036.5 1020 1029C1020 1016.5 998.5 1016.5 994.5 1016.5C966 1016.5 922 1048 922 1064C922 1073.5 930.5 1073.5 936 1073.5C964 1073.5 1017.58 1036.5 1026 1036.5C1025 1042 1018.5 1052.5 1018.5 1062C1018.5 1071.5 1026.5 1075 1032.5 1075C1051.5 1075 1148.5 1033.5 1152.5 1029.5" stroke="#fff" stroke-width="30" stroke-linecap="round" stroke-linejoin="round">
-        <animate id="animateA1Border" attributeName="stroke-dashoffset" from="430" to="0" begin="animateE1Border.end" dur="0.2s"  keyTimes="0;1" calcMode="spline" keySplines=".12,0,.39,0;" />
-        <set attributeName="stroke-dashoffset" to="0" begin="animateA1Border.end" end="repeat.click;indefinite" />
-    </path>
-    <path stroke-dasharray="330 330" stroke-dashoffset="330" d="M1156 1025C1143.5 1035 1114 1078 1113.5 1080.5C1132 1062.5 1195.5 1018 1210.5 1018C1213 1018 1213.5 1019.5 1213.5 1022C1213.5 1029 1202 1040 1202 1054C1202 1065.5 1225 1065 1227.5 1065C1258 1065 1296 1050.5 1296 1050.5" stroke="#fff" stroke-width="30" stroke-linecap="round" stroke-linejoin="round">
-        <animate id="animateNBorder" attributeName="stroke-dashoffset" from="330" to="0" begin="animateA1Border.end" dur="0.2s"  keyTimes="0;1" calcMode="spline" keySplines=".12,0,.39,0;" />
-        <set attributeName="stroke-dashoffset" to="0" begin="animateNBorder.end" end="repeat.click;indefinite" />
-    </path>
-    <path stroke-dasharray="260 260" stroke-dashoffset="260" d="M1393.5 1035.5C1393.5 1035.5 1394.5 1035 1395 1031C1395 1024 1385 1016.5 1364 1016.5C1335.5 1016.5 1289.5 1048 1289.5 1064C1289.5 1073.5 1298 1073.5 1303.5 1073.5C1331.5 1073.5 1385.08 1035.5 1393.5 1035.5Z" stroke="#fff" stroke-width="30" stroke-linecap="round" stroke-linejoin="round">
-        <animate id="animateA21Border" attributeName="stroke-dashoffset" from="260" to="0" begin="animateNBorder.end" dur="0.16s"  keyTimes="0;1" calcMode="spline" keySplines=".12,0,.39,0;" />
-        <set attributeName="stroke-dashoffset" to="0" begin="animateA21Border.end" end="repeat.click;indefinite" />
-    </path>
-    <path stroke-dasharray="312 312" stroke-dashoffset="312" d="M1393.5 1035.5C1390.5 1042.5 1382 1059.5 1382 1074C1382 1090 1405.02 1089.45 1412.5 1090C1453.5 1093 1631 1047.5 1638 1038" stroke="#fff" stroke-width="30" stroke-linecap="round" stroke-linejoin="round">
-        <animate id="animateA22Border" attributeName="stroke-dashoffset" from="312" to="0" begin="animateA21Border.end" dur="0.2s"  keyTimes="0;1" calcMode="spline" keySplines=".12,0,.39,0;" />
-        <set attributeName="stroke-dashoffset" to="0" begin="animateA22Border.end" end="repeat.click;indefinite" />
-    </path>
-    <path stroke-dasharray="120 120" stroke-dashoffset="120" d="M921.5 1128.5C921.5 1125 981 1100 1023 1100C1027 1100 1029 1102.5 1029 1102.5" stroke="#fff" stroke-width="30" stroke-linecap="round" stroke-linejoin="round">
-        <animate id="animateUnderlineBorder" attributeName="stroke-dashoffset" from="120" to="0" begin="animateA22Border.end" dur="0.1s"  keyTimes="0;1" calcMode="spline" keySplines=".12,0,.39,0;" />
-        <set attributeName="stroke-dashoffset" to="0" begin="animateUnderlineBorder.end" end="repeat.click;indefinite" />
-    </path>
-    <path stroke-dasharray="300 300" stroke-dashoffset="300" d="M1933 926.5C1922 944.5 1810 1119 1810 1180.5C1810 1186 1813.5 1187.5 1813.5 1187.5" stroke="#fff" stroke-width="33" stroke-linecap="round" stroke-linejoin="round">
-        <animate id="animateH1Border" attributeName="stroke-dashoffset" from="300" to="0" begin="animateUnderlineBorder.end" dur="0.18s"  keyTimes="0;1" calcMode="spline" keySplines=".12,0,.39,0;" />
-        <set attributeName="stroke-dashoffset" to="0" begin="animateH1Border.end" end="repeat.click;indefinite" />
-    </path>
-    <path stroke-dasharray="1040 1040" stroke-dashoffset="1040" d="M2186.5 722C2190.5 717 2213.5 702 2223.5 702C2227.5 702 2230 705.5 2230 708C2230 739 1872 1186.5 1872 1521.5C1872 1574 1890.5 1600 1890.5 1600" stroke="#fff" stroke-width="30" stroke-linecap="round" stroke-linejoin="round">
-        <animate id="animateH2Border" attributeName="stroke-dashoffset" from="1040" to="0" begin="animateH1Border.end" dur="0.4s"  keyTimes="0;1" calcMode="spline" keySplines=".12,0,.39,0;" />
-        <set attributeName="stroke-dashoffset" to="0" begin="animateH2Border.end" end="repeat.click;indefinite" />
-    </path>
-    <path stroke-dasharray="540 540" stroke-dashoffset="540" d="M1760 1048C1760 1048 1761.5 1051 1776 1051C1843.5 1051 2258.5 909 2273 905.5" stroke="#fff" stroke-width="30" stroke-linecap="round" stroke-linejoin="round">
-        <animate id="animateH3Border" attributeName="stroke-dashoffset" from="540" to="0" begin="animateH2Border.end" dur="0.33s"  keyTimes="0;1" calcMode="spline" keySplines=".12,0,.39,0;" />
-        <set attributeName="stroke-dashoffset" to="0" begin="animateH3Border.end" end="repeat.click;indefinite" />
-    </path>
-    <path stroke-dasharray="1450 1450" stroke-dashoffset="1450" d="M2123.5 1009C2111 1028.5 2097 1051 2097 1062C2097 1070 2103 1071.5 2106.5 1071.5C2130 1071.5 2185 1018.4 2192.5 1007C2176.5 1031.32 2164.5 1052 2164.5 1061.5C2164.5 1070.5 2169.5 1071 2172 1071C2214.5 1071 2397.5 893.5 2397.5 875C2397.5 870.5 2394.5 870 2393 870C2341.5 870 2181.5 1149.5 2181.5 1238C2181.5 1269.5 2197 1274 2199.5 1274C2222 1274 2262 1213.5 2262 1147.5C2264.5 1104 2244.5 1032 2248.5 1015C2254.63 1020 2277 1023 2287 1023C2301 1023 2355 1006 2355 1006" stroke="#fff" stroke-width="30" stroke-linecap="round" stroke-linejoin="round">
-        <animate id="animateUfBorder" attributeName="stroke-dashoffset" from="1450" to="0" begin="animateH3Border.end" dur="0.7s"  keyTimes="0;1" calcMode="spline" keySplines=".12,0,.39,0;" />
-        <set attributeName="stroke-dashoffset" to="0" begin="animateUfBorder.end" end="repeat.click;indefinite" />
-    </path>
-    <path stroke-dasharray="390 390" stroke-dashoffset="390" d="M2362.5 999C2362.5 999 2324.5 1051 2324.5 1056.5C2324.5 1060.5 2325 1062.5 2328 1062.5C2340.5 1062.5 2403.5 1007.5 2410.5 997.5C2394.5 1022.5 2380 1056.5 2380 1064.5C2380 1071 2385.5 1072.5 2385.5 1072.5C2413.5 1072.5 2463 1018.5 2471 1001" stroke="#fff" stroke-width="30" stroke-linecap="round" stroke-linejoin="round">
-        <animate id="animateWBorder" attributeName="stroke-dashoffset" from="390" to="0" begin="animateUfBorder.end" dur="0.23s"  keyTimes="0;1" calcMode="spline" keySplines=".12,0,.39,0;" />
-        <set attributeName="stroke-dashoffset" to="0" begin="animateWBorder.end" end="repeat.click;indefinite" />
-    </path>
-    <path stroke-dasharray="1160 1160" stroke-dashoffset="1160" d="M2470 994C2473.5 1000.5 2481 1040 2529 1040C2554 1040 2573.5 1032 2573.5 1015.5C2573.5 1003 2565.5 999.5 2558 999.5C2533.5 999.5 2498 1040 2498 1070C2498 1090 2508.5 1097.5 2518.5 1097.5C2544.5 1097.5 2627 1050 2902 1050C3068.5 1050 3253 1078 3253 1137C3253 1153 3230 1161 3216.5 1161C3203 1161 3186.5 1153 3186.5 1153" stroke="#fff" stroke-width="30" stroke-linecap="round" stroke-linejoin="round">
-        <animate id="animateE2Border" attributeName="stroke-dashoffset" from="1160" to="0" begin="animateWBorder.end" dur="0.51s"  keyTimes="0;1" calcMode="spline" keySplines=".12,0,.39,0;" />
-        <set attributeName="stroke-dashoffset" to="0" begin="animateE2Border.end" end="repeat.click;indefinite" />
-    </path>
-
-
     <path stroke-dasharray="1720 1720" stroke-dashoffset="1720" d="M905.5 952C907.5 947 909 945.5 909 936C909 909.5 864.5 911 858 911C781.5 911 712.5 957.5 712.5 978.5C712.5 1008.5 773 1012.5 774 1012.5C782 1012.5 839.5 1014.5 839.5 1014.5C839.5 1014.5 828 1014.5 807 1014.5C712.5 1014.5 562.892 1089.04 560 1197C560 1237 587 1326.5 795 1326.5C1044 1326.5 1361 1226 1422.5 1174.5C1425 1172.41 1425 1169 1425 1169" stroke="#083D77" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
         <animate id="animateE1" attributeName="stroke-dashoffset" from="1720" to="0" begin="1s;repeat.click+0.25s" dur="0.75s"  keyTimes="0;1" calcMode="spline" keySplines=".12,0,.39,0;" />
         <set attributeName="stroke-dashoffset" to="0" begin="animateE1.end" end="repeat.click;indefinite" />
