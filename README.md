@@ -8,6 +8,7 @@ A software engineer who loves building tools, design, typography and Vocaloid.<b
 <br>
 <a href="https://1a23.com">Portfolio Site</a>
  · <a href="https://blog.1a23.com">Blog</a>
+ · <a href="https://mastodon.social/@blueset">Mastodon</a>
  · <a href="https://twitter.com/blueset">Twitter</a>
 <br>
 <br>
