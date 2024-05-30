@@ -8,7 +8,7 @@ A software engineer who enjoys building tools, design, typography and Vocaloid.<
 <br>
 <a href="https://1a23.com">Portfolio Site</a>
  · <a href="https://blog.1a23.com">Blog</a>
- · <a href="https://s.1a23.studio/@eana">Mastodon</a>
+ · <a href="https://s.1a23.studio/@eana">Follow me</a> on ActivityPub / Fediverse / Mastodon
 <br>
 <br>
 <br>
